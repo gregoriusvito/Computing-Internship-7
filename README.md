@@ -1,6 +1,7 @@
 # Computing-Internship-7
-## Tugas Computing-Internship Gen 5.0 adalah mengimplementasikan konsep Object Oriented Programming
-	dengan menggunakan bahasa pemrograman Python pada sebuah program.
+## Tugas Computing-Internship Gen 5.0
+	Tugas Computing-Internship Gen 5.0 adalah mengimplementasikan konsep
+	Object Oriented Programming dengan menggunakan bahasa pemrograman Python pada sebuah program.
 ## Penjelasan bagian A
 	a. pets.py
 	-----isi disini---
