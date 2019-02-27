@@ -24,6 +24,6 @@
 	-----isi disini-----
 ## Anggota Kelompok 7
 	1. Rizki Ramadhan || 1301174492 || rizkyramadhan028(line) || rzkyrr(instagram) || https://www.linkedin.com/in/rizki-r-3070b6105/ (linkedin) ||
-	2. Asty Nabilah 'Izzaturrahmah || 1301170494 || asty_nabilah (line) || asty_nabilah (instagram)
+	2. Asty Nabilah 'Izzaturrahmah || 1301170499 || asty_nabilah (line) || asty_nabilah (instagram)
 	3. -----isi disini-----
 	4. -----isi disini-----
