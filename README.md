@@ -12,7 +12,8 @@
 	and Bird yang masing-masingnya memiliki atribut species dan methos sound() yang mengembalikan suara dari 
 	sepesies tersebut.
 	b. figure2d.py
-	-----isi disini-----
+	Segitiga dan Segiempat merupakan main class. class samasisi dan samakaki merupakan inheritance dari segitiga.
+	class persegi, trapesium dan dan jajar genjang merupakan inheritance dari segi empat
 	c. vehicle.py
 	Vehicle merupakan kelas Parent pada program ini. Terdapat 3 kelas Child yaitu Car, Motorbike dan Bicycle.
 	Untuk semua class terdapat instatiation. Jadi, tiap child class memiliki variable yang sama dengan parent
@@ -25,5 +26,5 @@
 ## Anggota Kelompok 7
 	1. Rizki Ramadhan || 1301174492 || rizkyramadhan028(line) || rzkyrr(instagram) || https://www.linkedin.com/in/rizki-r-3070b6105/ (linkedin) ||
 	2. Asty Nabilah 'Izzaturrahmah || 1301170499 || asty_nabilah (line) || asty_nabilah (instagram)
-	3. -----isi disini-----
+	3. Gregorius Vito || 1301170501 || gregoriusvito (line,instagram,linkedin,telegram)
 	4. -----isi disini-----
