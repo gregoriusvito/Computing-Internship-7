@@ -22,9 +22,9 @@
 	10% untuk Motorbike dan tidak ada untuk Bicycle. Method park(hour) akan mereturn biaya parkir sesuai
 	dengan wheel_count dan capacity.
 	d. figure3d.py
-	-----isi disini-----
+	Terdapat 4 class yaitu kubus, balok, kerucut, tabung. masing masing mempunyai atribut global bernama jumlah sisi dan 	     mempunyai method untuk menghitung luas permukaan dan volume.
 ## Anggota Kelompok 7
 	1. Rizki Ramadhan || 1301174492 || rizkyramadhan028(line) || rzkyrr(instagram) || https://www.linkedin.com/in/rizki-r-3070b6105/ (linkedin) ||
 	2. Asty Nabilah 'Izzaturrahmah || 1301170499 || asty_nabilah (line) || asty_nabilah (instagram)
 	3. Gregorius Vito || 1301170501 || gregoriusvito (line,instagram,linkedin,telegram)
-	4. -----isi disini-----
+	4. Panji Bagaskara || 1301160098 || panjibgskr(line) || panjibgskr(ig) || github.com/panjibagaskara || linkedin.com/in/panjibagaskara
